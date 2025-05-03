@@ -1,0 +1,2 @@
+# dogruluk-oyunu
+testtir sikerim
